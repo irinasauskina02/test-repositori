@@ -1,0 +1,3 @@
+<?
+    echo "footer test1";
+?>
